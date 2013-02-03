@@ -49,7 +49,7 @@ h2 {
 
 ul {
     list-style: square outside;
-    margin: 1.5em 0;
+    margin: 0 0 1.5em 0;
     padding: 0;
 }
 
