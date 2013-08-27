@@ -77,21 +77,21 @@ dt:first-child {
  * ----
  */
 
-.grid {
+.g {
     margin-left: 5.5555%;
     margin-right: 5.5555%;
 }
 
-.grid::before, .grid::after {
+.g::before, .g::after {
     content: ' ';
     display: table;
 }
 
-.grid::after {
+.g::after {
     clear: both;
 }
 
-.unit {
+.u {
     box-sizing: border-box;
     margin-left: 0;
     margin-right: 0;
